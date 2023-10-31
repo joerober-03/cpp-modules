@@ -1,5 +1,5 @@
 # cpp-modules
-those are the 42 c++ modules
+those are the 42 c++ modules:
 
 module 00 is an introduction to the basics of c++ - finished with 80/100
 
